@@ -4,6 +4,8 @@
   background-color: yellow;
   padding: 30px;
   margin: 30px;
+
+  
 }
 
 .box2{
@@ -12,4 +14,6 @@
   background-color: blue;
   /*指定方法（box2周囲全てに枠線を設定する場合）*/
   border:5px solid yellow;
+
+  
 }
